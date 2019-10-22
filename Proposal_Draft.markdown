@@ -20,7 +20,7 @@ Team Name                        : Zenith
 
 Team Members                : Tan Jia Wei
 
-                                          Kevin Hugh O&#39;keeffe
+                                          Kevin Hugh O'keeffe
 
                                            Looi Ee Bin
 
@@ -50,9 +50,9 @@ Besides, a graphical user interface (GUI), will be developed to display graphica
 
 **Object-Oriented Programming (OOP)**
 
-OOP is a programming language that uses the concept of &quot;objects&quot;. These &quot;objects&quot; usually consists of data, in the form of fields and codes, in the form of functions or more commonly known as methods. Programs that uses OOP are designed using &quot;objects&quot; that will interact with each other. The most popular OOP languages are those that are categorized under class-based.
+  OOP is a programming language that uses the concept of &quot;objects&quot;. These &quot;objects&quot; usually consists of data, in the form of fields and codes, in the form of functions or more commonly known as methods. Programs that uses OOP are designed using &quot;objects&quot; that will interact with each other. The most popular OOP languages are those that are categorized under class-based.
 
-        OOP will be applied in this project through the creation of a Graphical User Interface (GUI) where the user can add new plants or remove existing plants. This application will also automatically compare the current moisture reading with the required moisture reading to alert the gardener if there is the need to water the plants. This application will be created with the use of Android Studio which will be using the programming language Java or Kotlin.
+  OOP will be applied in this project through the creation of a Graphical User Interface (GUI) where the user can add new plants or remove existing plants. This application will also automatically compare the current moisture reading with the required moisture reading to alert the gardener if there is the need to water the plants. This application will be created with the use of Android Studio which will be using the programming language Java or Kotlin.
 
 **Database**
 
