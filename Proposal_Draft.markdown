@@ -63,7 +63,7 @@ Plant ID and information
 
 | **Plant ID** | **Plant Name** | **Soil Moisture** | **Light Intensity** |
 | --- | --- | --- | --- |
-| 7356876 | <plant name> | 350 | 350 |
+| 7356876 | \<plant name\> | 350 | 350 |
 
 
 **Database 2:**
