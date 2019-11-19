@@ -1,5 +1,4 @@
 ##
-##
 
 # Garden Monitoring System
 
